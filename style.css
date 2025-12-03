@@ -1,22 +1,27 @@
-body{
-    line-height: 1.5;
-    background-color: lightgrey;
+body {
+  line-height: 1.5;
+  background-color: lightgrey;
 }
-h1,h2, p{
-    text-align: center;
+
+h1,
+h2,
+p {
+  text-align: center;
 }
-div{
-    background-color: white;
-text-align: center;
-    padding: 2rem;
-   
+
+div {
+  background-color: white;
+  text-align: center;
+  padding: 2rem;
 }
-img{
-    margin: auto;
-    display: flex;
-    padding: 1rem;
+
+img {
+  margin: auto;
+  display: flex;
+  padding: 1rem;
 }
-ul{
-    margin-right: 43rem;
-    margin-left: 43rem;
+
+ul {
+  margin-right: 43rem;
+  margin-left: 43rem;
 }
