@@ -10,7 +10,6 @@ p {
 }
 
 .tdiv {
-
   margin: 0 auto;
   background-color: white;
   text-align: center;
@@ -28,6 +27,5 @@ ul {
 }
 
 a {
-color: rgb(10, 116, 236);
-
+  color: rgb(10, 116, 236);
 }
