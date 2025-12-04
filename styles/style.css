@@ -10,19 +10,24 @@ p {
 }
 
 .tdiv {
-  max-width: 100%;
+
+  margin: 0 auto;
   background-color: white;
   text-align: center;
   padding: 2rem;
 }
 
 img {
-  display: flex;
-  margin: auto;
-  padding: 1rem;
+  max-width: 800px;
+  width: 100%;
 }
 
 ul {
-  max-width: 35rem;
-  margin: auto;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+a {
+color: rgb(10, 116, 236);
+
 }
