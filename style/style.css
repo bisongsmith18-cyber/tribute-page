@@ -9,19 +9,20 @@ p {
   text-align: center;
 }
 
-div {
+.tdiv {
+  max-width: 100%;
   background-color: white;
   text-align: center;
   padding: 2rem;
 }
 
 img {
-  margin: auto;
   display: flex;
+  margin: auto;
   padding: 1rem;
 }
 
 ul {
-  margin-right: 43rem;
-  margin-left: 43rem;
+  max-width: 35rem;
+  margin: auto;
 }
